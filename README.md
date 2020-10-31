@@ -19,7 +19,7 @@
    ```
    source openbmc-init-build-env meta-facebook/meta-fbtp
    ```
-4. Let the build system create a Linux kernel tree and apply the patches
+4. Let the build system create a Linux kernel tree and apply the patches. The patches for the Aspeed XDMA Engine Driver are taken from [the LKML](https://lore.kernel.org/lkml/1562010839-1113-1-git-send-email-eajames@linux.ibm.com/).
 5. Update the kernel config to build the aspeed-xdma module
 6. Build OpenBMC
   ```
