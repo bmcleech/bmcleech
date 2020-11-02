@@ -1,3 +1,7 @@
+# Paper and Presentation
+* [Original Paper](https://www.sciencedirect.com/science/article/pii/S2666281720300147)
+* [Presentation at DFRWS EU 2020](https://www.youtube.com/watch?v=e-dJC6enmf0)
+
 # Build Instructions
 
 1. Install dependencies
